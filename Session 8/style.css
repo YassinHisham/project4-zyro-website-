@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li a.nav-link.active,
+li a.nav-link:hover {
+  border-bottom: solid 1px #000;
+}
+
+li a.nav-link {
+  color: #000 !important;
+}
+
+section.first-section button {
+  background-color: #ccadad;
+}
+section.first-section button:hover {
+  background-color: #e0c1c1;
+}
